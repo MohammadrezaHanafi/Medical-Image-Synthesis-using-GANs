@@ -1,0 +1,3 @@
+I used normal lung images from this link
+
+https://www.kaggle.com/datasets/icmicm/pulmonaryfibrosis-dataset-final/code?datasetId=1411520&sortBy=relevance
